@@ -1,2 +1,2 @@
 def uglyprint(text):
-	print text.upper()
+	print "I fucked u up m8"
